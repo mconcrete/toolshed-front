@@ -1,0 +1,23 @@
+.section-content{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10px;
+}
+
+.add-tool-btn{
+    float: right;
+    margin-bottom: 5px;
+}
+
+.success-text {
+  background: #e9f9ee;
+  border: 1px solid #bfe8c9;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 12px;
+}
+
+.section-content input[type="button"] {
+  height: 28px;
+  margin-left: 8px;
+}
