@@ -12,7 +12,7 @@ npm install
 
 3. Copy the .env.example file and fill in with your credentials
 
-4.In order to run the application, type the following command
+4. In order to run the application, type the following command
 ```
 npm run dev
 ```
