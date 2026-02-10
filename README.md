@@ -1,3 +1,6 @@
+## Pre-requistes
+1. node,js version 20.19.0
+
 ## Cloning and Running the Application in local
 
 Clone the project into local
@@ -8,10 +11,12 @@ Install all the npm packages. Go into the project folder and type the following 
 npm install
 ```
 
-In order to run the application Type the following command
+3. Copy the .env.example file and fill in with your credentials
+
+In order to run the application, type the following command
 
 ```bash
-npm start
+npm run dev
 ```
 
-The Application Runs on **localhost:3000**
+The Application Runs on **localhost:5173**
